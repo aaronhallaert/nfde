@@ -35,6 +35,7 @@ nfde docker load
 
 ## Prerequisites
 
+- rust install
 - docker
 - `brew install postgresql`
   - drop_db
