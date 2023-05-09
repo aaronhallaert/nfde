@@ -35,6 +35,7 @@ nfde docker load
 
 ## Prerequisites
 
+- cargo (install [rustup](https://www.rust-lang.org/tools/install))
 - docker
 - `brew install postgresql`
   - drop_db
